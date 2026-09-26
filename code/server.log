@@ -1,0 +1,5 @@
+09-26 14:17 Server       INFO     Listening on port 1337
+09-26 14:17 Server       INFO     Initiating a secure connect with ('127.0.0.1', 61636)...
+09-26 14:17 Server       INFO     Generated challenge: [8fdca400896763ac3ca906d5a20c3fa2] 
+09-26 14:17 Server       INFO     Sent challenge to client
+09-26 14:20 Server       INFO     Ping msg [/quit]

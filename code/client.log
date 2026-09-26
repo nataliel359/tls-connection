@@ -1,0 +1,5 @@
+09-26 14:17 Client       INFO     Initiating a TLS connection [port 1337]
+09-26 14:17 Client       INFO     Connected to server
+09-26 14:17 Client       INFO     Challenge received
+09-26 14:17 Client       INFO     Sending response
+09-26 14:20 Client       INFO     Pong msg [/quit]

@@ -1,0 +1,7 @@
+09-25 19:03 Client       INFO     Initiating a TLS connection [port 14435]
+09-25 19:03 Client       INFO     Connected to server
+09-25 19:03 Client       INFO     Challenge received
+09-25 19:03 Client       INFO     Sending response
+09-25 19:03 Client       INFO     Pong msg [first message]
+09-25 19:03 Client       INFO     Pong msg [second message]
+09-25 19:03 Client       INFO     Pong msg [/quit]

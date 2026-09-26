@@ -1,0 +1,9 @@
+Note: there was no certificate packet, only client hello and server hello
+
+TLS Version and Cipher print returned None
+OpenSSL is not available in my terminal so there was no examining the certificate
+
+Original project: The first TLS certificate from 2024 had expired and prevented proper
+certifiacte validation by a configured TLS client.
+
+Remediation: A new, valid lab certifiacte was generated and configured
